@@ -1,7 +1,12 @@
 1.) gitben létrehozva, kommittálva, ez itt a master
+<<<<<<< HEAD
 <<<<<<< .merge_file_Melev5
 2.) local on branch b1
 =======
 
 3.) changed on github. no changes synced jet; the original is already changed on pc.
 >>>>>>> .merge_file_aHOdz4
+=======
+
+3.) changed on github. no changes synced jet; the original is already changed on pc.
+>>>>>>> 677650244eb43a2a9833740036d5664dedb4b1d4
